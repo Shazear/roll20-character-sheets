@@ -75,7 +75,6 @@
 	"phantasm-u": "Phantasm",
 	"puppetry-u": "Puppetry",
 	"usury-u": "Usury",
-	"otherarcanoi-u": "Other Arcanoi",
 	"corpus-u": "Corpus",
 	"willpower-u": "Willpower",
 	"pathos-u": "Pathos",
@@ -89,5 +88,6 @@
 	"angst-u": "Angst",
 	"psychewillpower-u": "Psyche Willpower",
 	"darkpassions-u": "Dark Passions",
-	"persuasion-u": "Persuasion"
+	"persuasion-u": "Persuasion",
+	"survival-u":"Survival"
 }
